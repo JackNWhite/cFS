@@ -42,6 +42,6 @@
 	path = tools/tblCRCTool
 	url = https://github.com/nasa/tblCRCTool.git
         branch = master
-[submodule "SCH"]
-	path = SCH
+[submodule "apps/SCH"]
+	path = apps/SCH
 	url = https://github.com/shintoo/SCH.git
