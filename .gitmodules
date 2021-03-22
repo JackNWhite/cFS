@@ -44,4 +44,5 @@
         branch = master
 [submodule "apps/SCH"]
 	path = apps/SCH
-	url = git@github.com:JackNWhite/SCH.git
+	url = https://github.com/shintoo/SCH.git
+		branch = master
